@@ -1,0 +1,26 @@
+
+
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+.top {
+    border-color: black;
+    border-style: solid;
+    background-color: cornsilk;
+}
+
+ul li {
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: blanchedalmond;
+    width: 200px;
+    padding: 20px;
+    margin: 20px 60px;
+    border-color: black;
+    border-style: solid;
+}
